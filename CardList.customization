@@ -1,0 +1,512 @@
+{
+  "01": {
+    "id": "01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Patron",
+        "type": "Patron",
+        "cost": 0,
+        "image": "https://i.postimg.cc/mrJZX1kv/The-Stardreamer.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Ascended",
+        "type": "Patron",
+        "cost": 0,
+        "image": "https://i.postimg.cc/0jTcVsJc/The-Stardreamer-Ascended.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Stardreamer",
+    "type": "Patron",
+    "cost": 0
+  },
+  "02": {
+    "id": "02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Patron",
+        "type": "Patron",
+        "cost": 0,
+        "image": "https://i.postimg.cc/V6zXzp46/The-Overdosed.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Ascended",
+        "type": "Patron",
+        "cost": 0,
+        "image": "https://i.postimg.cc/9Xp5tZjj/The-Overdosed-Ascended.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Overdosed",
+    "type": "Patron",
+    "cost": 0
+  },
+  "011": {
+    "id": "011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unique",
+        "type": "Spell",
+        "cost": "5",
+        "image": "https://i.postimg.cc/rwZfKgrg/Stardrop.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stardrop",
+    "type": "Spell",
+    "cost": "5"
+  },
+  "012": {
+    "id": "012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unique",
+        "type": "Place",
+        "cost": 0,
+        "image": "https://i.postimg.cc/7LKZbQgL/Party-realm.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Party realm",
+    "type": "Place",
+    "cost": 0
+  },
+  "021": {
+    "id": "021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unit",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://i.postimg.cc/zfZncVgH/Punk-Rat.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Punk Rat",
+    "type": "Unit",
+    "cost": "2"
+  },
+  "022": {
+    "id": "022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spell",
+        "type": "Spell",
+        "cost": "3",
+        "image": "https://i.postimg.cc/DzpDMkc9/(Il)legal-Substances.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "(Il)legal substances",
+    "type": "Spell",
+    "cost": "3"
+  },
+  "023": {
+    "id": "023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unit",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://i.postimg.cc/fLvh3QT3/Joyful-inciter.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Joyful inciter",
+    "type": "Unit",
+    "cost": "3"
+  },
+  "024": {
+    "id": "024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unit",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://i.postimg.cc/NGd5gPqb/Lara-Storyweaver.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lara, Storyweaver",
+    "type": "Unit",
+    "cost": "2"
+  },
+  "025": {
+    "id": "025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spell",
+        "type": "Spell",
+        "cost": "3",
+        "image": "https://i.postimg.cc/5NF1ZPxS/Hanging-out.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hanging out",
+    "type": "Spell",
+    "cost": "3"
+  },
+  "026": {
+    "id": "026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unit",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://i.postimg.cc/Zq9MPmL3/Trading-witch.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trading witch",
+    "type": "Unit",
+    "cost": "2"
+  },
+  "027": {
+    "id": "027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unit",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://i.postimg.cc/cCpNdDmS/(Not-very)-Trustworthy-crew.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "(Not-very)-Trustworthy-crew",
+    "type": "Unit",
+    "cost": "3"
+  },
+  "028": {
+    "id": "028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spell",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://i.postimg.cc/zXfWXGd5/Sticky-honey.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sticky honey",
+    "type": "Spell",
+    "cost": "2"
+  },
+  "029": {
+    "id": "029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spell",
+        "type": "Spell",
+        "cost": "6",
+        "image": "https://i.postimg.cc/05btcJMr/Never-ending-party.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Never-ending party",
+    "type": "Spell",
+    "cost": "6"
+  },
+  "030": {
+    "id": "030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spell",
+        "type": "Spell",
+        "cost": "4",
+        "image": "https://i.postimg.cc/kXBMww9Y/Party-games.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Party games",
+    "type": "Spell",
+    "cost": "4"
+  },
+  "031": {
+    "id": "031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spell",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://i.postimg.cc/8z69nnYV/Dynamite-sticks.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dynamite sticks",
+    "type": "Spell",
+    "cost": "2"
+  },
+  "032": {
+    "id": "032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unit",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://i.postimg.cc/rpw5kcw9/Deadly-mercenary.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Deadly mercenary",
+    "type": "Unit",
+    "cost": "3"
+  },
+  "033": {
+    "id": "033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "unit",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://i.postimg.cc/xCN36TzH/Warring-human-beast.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Warring human beast",
+    "type": "Unit",
+    "cost": "2"
+  },
+  "034": {
+    "id": "034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spell",
+        "type": "Spell",
+        "cost": "9",
+        "image": "https://i.postimg.cc/26183Gc2/Total-destruction.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Total destruction",
+    "type": "Spell",
+    "cost": "9"
+  },
+  "035": {
+    "id": "035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unit",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://i.postimg.cc/rmg61Qc7/Giant-rat.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Giant rat",
+    "type": "Unit",
+    "cost": "6"
+  },
+  "036": {
+    "id": "036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unit",
+        "type": "Unit",
+        "cost": "20",
+        "image": "https://i.postimg.cc/25LPFNrh/Star-king-Aragis.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Star king Aragis",
+    "type": "Unit",
+    "cost": "20"
+  },
+  "037": {
+    "id": "037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gadget",
+        "type": "Gadget",
+        "cost": "1",
+        "image": "https://i.postimg.cc/x1K1QqzD/Satoru-Gojo-trading-card-(limited-edition).png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Satoru-Gojo-trading-card-(limited-edition)",
+    "type": "Gadget",
+    "cost": "1"
+  },
+  "038": {
+    "id": "038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spell",
+        "type": "Spell",
+        "cost": "5",
+        "image": "https://i.postimg.cc/Wb1skzZm/Majestic-comet.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Majestic comet",
+    "type": "Spell",
+    "cost": "5"
+  },
+  "039": {
+    "id": "039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unit",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://i.postimg.cc/Dy0KzDVp/Broken-protector-(1).png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Broken protector",
+    "type": "Unit",
+    "cost": "1"
+  },
+  "040": {
+    "id": "040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unit",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://i.postimg.cc/4y0fpqXJ/Abandoned-pup.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abandoned pup",
+    "type": "Unit",
+    "cost": "1"
+  },
+  "041": {
+    "id": "041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spell",
+        "type": "Spell",
+        "cost": "5",
+        "image": "https://i.postimg.cc/wTSxvCWh/Faithful-destiny.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Faithful destiny",
+    "type": "Spell",
+    "cost": "5"
+  },
+  "042": {
+    "id": "042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spell",
+        "type": "Spell",
+        "cost": "3",
+        "image": "https://i.postimg.cc/MKjxhsWt/Hunting-trip.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hunting trip",
+    "type": "Spell",
+    "cost": "3"
+  },
+  "043": {
+    "id": "043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gadget",
+        "type": "Gadget",
+        "cost": "6",
+        "image": "https://i.postimg.cc/GhsrZMcS/Quantic-Box.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quantic box",
+    "type": "Gadget",
+    "cost": "6"
+  },
+  "044": {
+    "id": "044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spell",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://i.postimg.cc/YqzFGT5f/Focused-shot.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Focused shot",
+    "type": "Spell",
+    "cost": "1"
+  },
+  "01-P": {
+    "id": "01-P",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Place",
+        "type": "Place",
+        "cost": 0,
+        "image": "https://i.postimg.cc/k4HpTgXw/Toxic-swamp.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Toxic swamp",
+    "type": "Place",
+    "cost": 0
+  },
+  "01-T": {
+    "id": "01-T",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Token",
+        "type": "Token",
+        "cost": 0,
+        "image": "https://i.postimg.cc/MTfbtQ6r/Critter.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Critter",
+    "type": "Token",
+    "cost": 0
+  },
+  "02-T": {
+    "id": "02-T",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Token",
+        "type": "Token",
+        "cost": 0,
+        "image": "https://i.postimg.cc/tTnwPJ88/Wish-token.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wish token",
+    "type": "Token",
+    "cost": 0
+  }
+}
